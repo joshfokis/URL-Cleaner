@@ -17,7 +17,7 @@ def main():
             print "you didn't open anything!"
 
         fin = open(file_path)
-        fout = open("URL Cleaned12.txt", "wt")
+        fout = open("URL Cleaned.txt", "wt")
         for line in fin.readlines(): 
                 editor = (line.replace('[.]', '.')
                 .replace('[dot]', '.')
