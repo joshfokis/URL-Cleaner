@@ -1,9 +1,7 @@
 URL-Cleaner
 ===========
 
-Clean URLs to the base example.com instead of  hxxp://www[.]example[.]com/example2/
-
-            This script is for any one to use and edit for personal or commercial use.
+Clean URLs to the base example.com instead of  hxxp://www[.]example[dot]com/example2/
 
 To use:
 
